@@ -1,5 +1,5 @@
 Tetris Game:
-It is a java implementatino of Tetris Game.
+It is a java implementation of Tetris Game.
 Need java 11 to be installed.
 
 “Main.java” is the main class.
